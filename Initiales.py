@@ -1,0 +1,7 @@
+print("cccc  p")
+print("c  c  p")
+print("c  c  p")
+print("c  c  p")
+print("c  c  p")
+print("c  c  p")
+print("cccc  pppp")
